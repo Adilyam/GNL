@@ -23,9 +23,7 @@ make -C libft && make -C libft clean
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Adilyam Tilegenova – [linkedin](https://www.linkedin.com/in/adilyam-tilegenova-5b3180148/) – adilyamt@gmail.com
 
 [https://github.com/yourname/github-link](https://github.com/Adilyam)
 
