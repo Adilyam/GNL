@@ -25,5 +25,5 @@ make -C libft && make -C libft clean
 
 Adilyam Tilegenova – [linkedin](https://www.linkedin.com/in/adilyam-tilegenova-5b3180148/) – adilyamt@gmail.com
 
-[https://github.com/yourname/github-link](https://github.com/Adilyam)
+[https://github.com/Adilyam](https://github.com/Adilyam)
 
