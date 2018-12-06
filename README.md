@@ -1,27 +1,16 @@
 # GET NEXT LINE
-> Short blurb about what your product does.
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+> Reading a file line by line.
 
 The aim of this project is to make you code a function that returns a line
 ending with a newline, read from a file descriptor.
 
-![](header.png)
 
 ## Installation
 
-OS X & Linux:
+OS X & Linux & Windows::
 
 ```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
+make
 ```
 
 ## Usage example
