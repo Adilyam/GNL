@@ -1,7 +1,7 @@
 # GET NEXT LINE
 > Reading a file line by line.
 
-The aim of this project is to make you code a function that returns a line
+The aim of this project is to return a line
 ending with a newline, read from a file descriptor.
 
 
