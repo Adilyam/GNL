@@ -7,7 +7,7 @@ ending with a newline, read from a file descriptor.
 
 ## Installation
 
-OS X & Linux & Windows::
+OS X & Linux :
 
 ```sh
 make -C libft && make -C libft clean
